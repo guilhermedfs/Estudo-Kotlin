@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Rio de Janeiro é a capital do Brasil.</string>
+    <string name="true_button">Certo</string>
+    <string name="false_button">Errado</string>
+    <string name="correct_toast">Correto!</string>
+    <string name="incorrect_toast">Incorreto!</string>
+</resources>
